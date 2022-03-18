@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "donut:jolly_rancher"
+    },
+    "1": {
+      "item": "donut:jolly_rancher"
+    },
+    "2": {
+      "item": "donut:jolly_rancher"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "donut:solid_jolly_rancher_axe",
+    "count": 1
+  }
+}

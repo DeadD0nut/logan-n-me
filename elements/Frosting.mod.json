@@ -1,0 +1,49 @@
+{
+  "_fv": 24,
+  "_type": "fluid",
+  "definition": {
+    "name": "Frosting",
+    "bucketName": "Frosting Bucket",
+    "textureStill": "frosting",
+    "textureFlowing": "frosting",
+    "tintType": "No tint",
+    "canMultiply": true,
+    "flowRate": 1,
+    "levelDecrease": 1,
+    "slopeFindDistance": 1,
+    "spawnParticles": true,
+    "dripParticle": {
+      "value": "BARRIER"
+    },
+    "flowStrength": -5.0,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1,
+    "isGas": false,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "emptySound": {
+      "value": "entity.endermen.stare"
+    },
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 0,
+    "emissiveRendering": false,
+    "tickRate": 10,
+    "flammability": 10,
+    "fireSpreadSpeed": 20,
+    "colorOnMap": "DEFAULT",
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "donut:blocks/ultimate",
+    "up": "donut:blocks/ultimate",
+    "north": "donut:blocks/ultimate",
+    "east": "donut:blocks/ultimate",
+    "south": "donut:blocks/ultimate",
+    "west": "donut:blocks/ultimate",
+    "particle": "donut:blocks/ultimate"
+  }
+}

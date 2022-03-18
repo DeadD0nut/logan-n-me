@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:burnt_log"
+    }
+  ],
+  "result": {
+    "item": "donut:burnt_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "donut:frosted_ore"
+    },
+    "1": {
+      "item": "donut:frosted_ore"
+    },
+    "2": {
+      "item": "donut:frosted_ore"
+    },
+    "3": {
+      "item": "donut:frosted_ore"
+    },
+    "4": {
+      "item": "donut:frosted_ore"
+    },
+    "5": {
+      "item": "donut:frosted_ore"
+    },
+    "6": {
+      "item": "donut:frosted_ore"
+    },
+    "7": {
+      "item": "donut:frosted_ore"
+    },
+    "8": {
+      "item": "donut:frosted_ore"
+    }
+  },
+  "result": {
+    "item": "donut:frosted_ore_block",
+    "count": 1
+  }
+}

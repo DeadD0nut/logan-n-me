@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "donut:frosted_ore_ore",
+    "donut:frosted_ore_block",
+    "donut:sugar_ore",
+    "donut:sugar_block"
+  ]
+}

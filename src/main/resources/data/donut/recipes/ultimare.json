@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "donut:super_candy"
+    },
+    "1": {
+      "item": "donut:super_candy"
+    },
+    "2": {
+      "item": "donut:super_candy"
+    },
+    "3": {
+      "item": "donut:super_candy"
+    },
+    "4": {
+      "item": "minecraft:dragon_head"
+    },
+    "5": {
+      "item": "donut:super_candy"
+    },
+    "6": {
+      "item": "donut:super_candy"
+    },
+    "7": {
+      "item": "donut:super_candy"
+    },
+    "8": {
+      "item": "donut:super_candy"
+    }
+  },
+  "result": {
+    "item": "donut:the_ultimate_candy",
+    "count": 1
+  }
+}

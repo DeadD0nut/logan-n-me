@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "1": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "2": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "4": {
+      "item": "minecraft:red_wool"
+    }
+  },
+  "result": {
+    "item": "donut:chicken_strips",
+    "count": 20
+  }
+}

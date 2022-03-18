@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "he",
+    "customModelName": "Normal",
+    "name": "Donut",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Donuts"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 9999,
+    "efficiency": 99994.0,
+    "attackSpeed": 60.0999,
+    "enchantability": 99992,
+    "damageVsEntity": 9994.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

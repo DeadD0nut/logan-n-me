@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "donut:burnt_planks"
+    }
+  ],
+  "result": {
+    "item": "donut:burnt_button",
+    "count": 1
+  }
+}

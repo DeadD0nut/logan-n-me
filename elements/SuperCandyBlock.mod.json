@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Gummy"
+      },
+      {
+        "value": "CUSTOM:MnM"
+      },
+      {
+        "value": "CUSTOM:Chockolat"
+      },
+      {
+        "value": "CUSTOM:Gum"
+      },
+      {
+        "value": "CUSTOM:ChewedGum"
+      },
+      {
+        "value": "CUSTOM:JollyRancher"
+      },
+      {
+        "value": "CUSTOM:Mikeandike"
+      },
+      {
+        "value": "CUSTOM:LemmonHead"
+      },
+      {
+        "value": "CUSTOM:Smarties"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CandyBlob"
+    },
+    "name": "super_candy_block",
+    "namespace": "mod"
+  }
+}

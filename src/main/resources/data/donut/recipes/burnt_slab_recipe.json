@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "donut:burnt_planks"
+    },
+    "1": {
+      "item": "donut:burnt_planks"
+    },
+    "2": {
+      "item": "donut:burnt_planks"
+    }
+  },
+  "result": {
+    "item": "donut:burnt_slab",
+    "count": 6
+  }
+}

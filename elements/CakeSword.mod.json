@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cake_sword",
+    "customModelName": "Normal",
+    "name": "Cake Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Donuts"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 10,
+    "efficiency": 16.0,
+    "attackSpeed": 0.5,
+    "enchantability": 69,
+    "damageVsEntity": 30.0,
+    "usageCount": 2380,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.CAKE"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

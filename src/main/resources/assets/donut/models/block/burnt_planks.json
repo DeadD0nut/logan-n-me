@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "donut:blocks/burnt_planks",
+    "particle": "donut:blocks/burnt_planks"
+  }
+}

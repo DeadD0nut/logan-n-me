@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "donut:block/burnt_slab"
+    },
+    "type=top": {
+      "model": "donut:block/burnt_slab_top"
+    },
+    "type=double": {
+      "model": "donut:block/burnt_slab_full"
+    }
+  }
+}

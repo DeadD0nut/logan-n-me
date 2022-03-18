@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "donut:the_ultimate_candy"
+    },
+    "1": {
+      "item": "donut:the_ultimate_candy"
+    },
+    "2": {
+      "item": "donut:the_ultimate_candy"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "donut:ultimate_axe",
+    "count": 1
+  }
+}

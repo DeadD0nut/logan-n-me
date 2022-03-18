@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "aaaaaaaaaaaaa",
+    "name": "Suger Rush",
+    "description": "The flowing suger sands",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:aaaaaaaa"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

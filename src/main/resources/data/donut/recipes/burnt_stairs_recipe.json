@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "donut:burnt_planks"
+    },
+    "3": {
+      "item": "donut:burnt_planks"
+    },
+    "4": {
+      "item": "donut:burnt_planks"
+    },
+    "6": {
+      "item": "donut:burnt_planks"
+    },
+    "7": {
+      "item": "donut:burnt_planks"
+    },
+    "8": {
+      "item": "donut:burnt_planks"
+    }
+  },
+  "result": {
+    "item": "donut:burnt_stairs",
+    "count": 4
+  }
+}

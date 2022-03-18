@@ -1,0 +1,20 @@
+{
+  "suger_coated": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "donut:just-breathing-_instrumental_-neffex",
+        "stream": true
+      }
+    ]
+  },
+  "aaaaaaaa": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "donut:pressure-cooker-jeremy-korpas",
+        "stream": false
+      }
+    ]
+  }
+}

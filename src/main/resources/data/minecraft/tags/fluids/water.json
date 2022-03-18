@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "donut:frosting",
+    "donut:flowing_frosting",
+    "donut:black_hole",
+    "donut:flowing_black_hole"
+  ]
+}

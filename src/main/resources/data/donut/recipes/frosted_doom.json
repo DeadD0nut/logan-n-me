@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "donut:cake_eye"
+    },
+    "1": {
+      "item": "donut:cake_pickaxe"
+    },
+    "2": {
+      "item": "donut:cake_eye"
+    },
+    "3": {
+      "item": "donut:cake_shovel"
+    },
+    "4": {
+      "item": "donut:frosted_ore"
+    },
+    "5": {
+      "item": "donut:cake_axe"
+    },
+    "6": {
+      "item": "donut:cake_eye"
+    },
+    "7": {
+      "item": "donut:cake_sword"
+    },
+    "8": {
+      "item": "donut:cake_eye"
+    }
+  },
+  "result": {
+    "item": "donut:bow_2",
+    "count": 1
+  }
+}

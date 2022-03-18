@@ -1,0 +1,138 @@
+{
+  "_fv": 24,
+  "_type": "biome",
+  "definition": {
+    "name": "Frosted Forest",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.WOOL#6"
+    },
+    "grassColor": {
+      "value": -65332,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -65332,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -10092442,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -10092442,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": "block.amethyst_block.chime"
+    },
+    "additionsSound": {
+      "value": "block.amethyst_block.break"
+    },
+    "music": {
+      "value": "ambient.nether_wastes.loop"
+    },
+    "moodSound": {
+      "value": "block.amethyst_block.step"
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "CRIMSON_SPORE"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.5,
+    "temperature": 0.411,
+    "baseHeight": -0.1,
+    "heightVariation": 0.4,
+    "biomeType": "WARM",
+    "spawnBiome": true,
+    "biomeWeight": 10,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 14,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 4,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 55,
+    "treeStem": {
+      "value": "Blocks.CONCRETE#2"
+    },
+    "treeBranch": {
+      "value": "Blocks.CONCRETE#6"
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": true,
+    "spawnPillagerOutpost": true,
+    "villageType": "plains",
+    "spawnWoodlandMansion": true,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": true,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": true,
+    "spawnShipwreckBeached": true,
+    "spawnBuriedTreasure": true,
+    "oceanRuinType": "WARM",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": true,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "STANDARD",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "CUSTOM:FrostedBeast"
+        },
+        "minGroup": 4,
+        "maxGroup": 10,
+        "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:Monstere"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 1,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:ShugerMan"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

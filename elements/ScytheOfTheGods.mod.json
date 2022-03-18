@@ -1,0 +1,34 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sythe",
+    "customModelName": "Normal",
+    "name": "Sythe Of The Gods",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 20,
+    "efficiency": 60.0,
+    "attackSpeed": 1.0,
+    "enchantability": 1400,
+    "damageVsEntity": 100.0,
+    "usageCount": 25000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:TheUltimateCandy"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntitySwing": {
+      "name": "ScytheOfTheGodsEntitySwingsItem"
+    }
+  }
+}

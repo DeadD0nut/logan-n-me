@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "donut:blocks/sugar_ore_block",
+    "particle": "donut:blocks/sugar_ore_block"
+  }
+}

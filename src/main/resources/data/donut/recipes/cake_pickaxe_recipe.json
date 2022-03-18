@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cake"
+    },
+    "1": {
+      "item": "donut:cake_eye"
+    },
+    "2": {
+      "item": "minecraft:cake"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "donut:cake_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.42,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "donut:sugar_ore"
+  },
+  "result": {
+    "item": "donut:sugar_ingot"
+  }
+}

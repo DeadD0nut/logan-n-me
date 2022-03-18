@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "donut:blocks/burnt_planks",
+    "top": "donut:blocks/burnt_planks",
+    "side": "donut:blocks/burnt_planks"
+  }
+}

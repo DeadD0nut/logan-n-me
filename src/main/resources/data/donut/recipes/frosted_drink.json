@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "donut:pile_o_donuts"
+    },
+    {
+      "item": "donut:frosted_ore"
+    },
+    {
+      "item": "donut:pile_o_donuts"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "donut:frosted_sugar",
+    "count": 1
+  }
+}

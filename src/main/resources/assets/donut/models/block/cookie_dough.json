@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "donut:blocks/dough",
+    "up": "donut:blocks/dough",
+    "north": "donut:blocks/dough",
+    "east": "donut:blocks/dough",
+    "south": "donut:blocks/dough",
+    "west": "donut:blocks/dough",
+    "particle": "donut:blocks/dough"
+  }
+}

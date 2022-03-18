@@ -1,0 +1,37 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "frosting",
+    "customModelName": "Normal",
+    "name": "Aaaaa",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Donuts"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": true,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "spear",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 9995.0,
+    "bulletKnockback": 47,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "Blocks.SOUL_FIRE"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

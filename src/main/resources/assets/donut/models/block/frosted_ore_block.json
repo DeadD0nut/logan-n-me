@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "donut:blocks/frosted_ore_ore_block",
+    "particle": "donut:blocks/frosted_ore_ore_block"
+  }
+}

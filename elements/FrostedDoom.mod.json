@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CakeEye"
+      },
+      {
+        "value": "CUSTOM:CakePickaxe"
+      },
+      {
+        "value": "CUSTOM:CakeEye"
+      },
+      {
+        "value": "CUSTOM:CakeShovel"
+      },
+      {
+        "value": "CUSTOM:Frosted_Ore"
+      },
+      {
+        "value": "CUSTOM:CakeAxe"
+      },
+      {
+        "value": "CUSTOM:CakeEye"
+      },
+      {
+        "value": "CUSTOM:CakeSword"
+      },
+      {
+        "value": "CUSTOM:CakeEye"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Bow2"
+    },
+    "name": "frosted_doom",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "donut:block/frosted_sugar_portal_ew"
+    },
+    "axis=x": {
+      "model": "donut:block/frosted_sugar_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "donut:melted_suger"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "donut:melted_suger"
+    }
+  ],
+  "result": {
+    "item": "donut:gummy",
+    "count": 1
+  }
+}

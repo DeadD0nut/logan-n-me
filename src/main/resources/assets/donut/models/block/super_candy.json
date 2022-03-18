@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "donut:blocks/supercandy",
+    "up": "donut:blocks/supercandy",
+    "north": "donut:blocks/supercandy",
+    "east": "donut:blocks/supercandy",
+    "south": "donut:blocks/supercandy",
+    "west": "donut:blocks/supercandy",
+    "particle": "donut:blocks/supercandy"
+  }
+}

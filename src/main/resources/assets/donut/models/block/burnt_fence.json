@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "donut:blocks/burnt_planks",
+    "particle": "donut:blocks/burnt_planks"
+  }
+}

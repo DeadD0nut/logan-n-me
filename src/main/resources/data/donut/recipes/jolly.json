@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "donut:melted_suger"
+    },
+    {
+      "item": "donut:melted_suger"
+    },
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "item": "donut:melted_suger"
+    },
+    {
+      "item": "donut:melted_suger"
+    }
+  ],
+  "result": {
+    "item": "donut:jolly_rancher",
+    "count": 1
+  }
+}

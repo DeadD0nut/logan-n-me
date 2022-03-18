@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "donut:gummy"
+    },
+    {
+      "item": "donut:mn_m"
+    },
+    {
+      "item": "donut:chockolat"
+    },
+    {
+      "item": "donut:gum"
+    },
+    {
+      "item": "donut:chewed_gum"
+    },
+    {
+      "item": "donut:jolly_rancher"
+    },
+    {
+      "item": "donut:mikeandike"
+    },
+    {
+      "item": "donut:lemmon_head"
+    },
+    {
+      "item": "donut:smarties"
+    }
+  ],
+  "result": {
+    "item": "donut:candy_blob",
+    "count": 1
+  }
+}

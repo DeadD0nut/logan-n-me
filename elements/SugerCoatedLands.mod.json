@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sugerdisk",
+    "name": "Suger Coated Lands",
+    "description": "The lands are covered in suger.",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:suger_coated"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

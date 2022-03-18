@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "donut:candy_blob"
+    },
+    "1": {
+      "item": "donut:candy_blob"
+    },
+    "2": {
+      "item": "donut:candy_blob"
+    },
+    "3": {
+      "item": "donut:candy_blob"
+    },
+    "4": {
+      "item": "donut:candy_blob"
+    },
+    "5": {
+      "item": "donut:candy_blob"
+    },
+    "6": {
+      "item": "donut:candy_blob"
+    },
+    "7": {
+      "item": "donut:candy_blob"
+    },
+    "8": {
+      "item": "donut:candy_blob"
+    }
+  },
+  "result": {
+    "item": "donut:super_candy",
+    "count": 1
+  }
+}

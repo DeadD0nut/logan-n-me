@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "donut:sugar_block"
+    }
+  ],
+  "result": {
+    "item": "donut:sugar_ingot",
+    "count": 9
+  }
+}
